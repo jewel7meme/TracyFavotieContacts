@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tracy Favotie Contacts</string>
+    <string name="james_smith_n218_456_7890">James Smith\n218-456-7890</string>
+    <string name="mary_johnson_n218_789_1234">Mary Johnson\n218-789-1234</string>
+    <string name="maria_garcia_n218_123_4567">Maria Garcia\n218-123-4567</string>
+    <string name="textview">TextView</string>
+    <string-array name="names_array">
+        <item>Maria Garcia</item>
+        <item>James Smith</item>
+        <item>Mary Johnson</item>
+    </string-array>
+
+    <string-array name="numbers_array">
+        <item>(218) 123 4567</item>
+        <item>(218) 456 7890</item>
+        <item>(218) 789 1234</item>
+    </string-array>
+</resources>
